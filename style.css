@@ -1,0 +1,28 @@
+.title {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10%;
+}
+
+.body {
+    margin: 5% 30% 0% 30%;
+    border: 1px solid;
+    height: 500px;
+    border-radius: 5px;
+    background: url(http://www.aapopuskala.fi/_img/paper.jpg);
+}
+
+.result{
+    display: flex;
+    flex-direction: row-reverse;
+    height: 100px;
+    width: 100%;
+    border-style: dotted;
+    border-width: 0px 0px 3px 0px;
+    font-size: 5vw;
+    align-items: center;
+}
+
+.number{
+    display: flex;
+}
