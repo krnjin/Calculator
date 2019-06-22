@@ -27,7 +27,7 @@
     display: flex;
 }
 
-.firstRow{
+.row{
     display: flex;
     flex: 1 1 0;
     height: 103px;
@@ -38,6 +38,6 @@
     background:transparent;
 }
 
-.firstRow:hover{
+.row:hover{
     background-color: blue;
 }
